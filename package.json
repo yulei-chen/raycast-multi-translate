@@ -3168,10 +3168,7 @@
     "@iamtraction/google-translate": "^2.0.1",
     "@raycast/api": "^1.101.1",
     "@raycast/utils": "^2.2.0",
-    "diff": "^8.0.2",
-    "execa": "^9.6.0",
-    "lru-cache": "^11.1.0",
-    "satori": "^0.15.2"
+    "lru-cache": "^11.1.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.17.0",

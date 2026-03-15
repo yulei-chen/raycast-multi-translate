@@ -18,7 +18,6 @@ I speak Chinese, work in English, live in France, and sometimes also consume Jap
 
 ## Features
 
-
 ## Installation
 
 Currently, you need to clone this repo and install it locally in developer mode.
@@ -40,12 +39,6 @@ Support translating up to 7 languages at once. Options can be found in the exten
 
 <img width="1112" src="https://github.com/antfu/raycast-multi-translate/assets/11247099/797a83ea-6013-4cef-82fe-dfc5d309aada">
 
-### Spellcheck
-
-When you misspell some words, an additional item will be listed, with diffing support to help you find the correct spelling easier.
-
-<img width="862" src="https://github.com/antfu/raycast-multi-translate/assets/11247099/ca5ea47a-3d8f-4657-83c1-4955798564fe">
-
 ### Source Language Detection
 
 By default we send the text to Google Translate and let it detect the source language automatically. In some cases, it might not be accurate because different works in different languages can spell the same. For example, `ours` in French means `bear`, but in English, it means `belonging to us`. In this case, if you want to translate `ours` in French, you can add `>fr` to the end of the text to force the source language to be French.
@@ -65,7 +58,6 @@ Originally forked from https://github.com/raycast/extensions/tree/main/extension
 - Show details view by default
 - Cache translation results
 - Make "Use current selection" passive and don't interfere the input field
-- Added spellcheck functionality
 
 </details>
 
